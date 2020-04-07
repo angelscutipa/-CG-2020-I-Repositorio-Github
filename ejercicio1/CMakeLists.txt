@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(ejercicio1)
+add_definitions(-std=c++11)
+set(SRC ejercicio1.cpp)
+add_executable(ejercicio1 ${SRC})
+target_link_libraries(ejercicio1 GL GLU glut GLEW glfw3 X11 Xxf86vm Xrandr pthread Xi dl Xinerama Xcursor)
