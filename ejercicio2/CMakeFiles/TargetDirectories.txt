@@ -1,0 +1,3 @@
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/CMakeFiles/rebuild_cache.dir
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/CMakeFiles/ejercicio2.dir
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/CMakeFiles/edit_cache.dir

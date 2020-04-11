@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ejercicio2.dir/ejercicio2.cpp.o glad.o  -o ejercicio2 -lGL -lGLU -lglut -lGLEW -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/ejercicio2.cpp
+glad.h
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/glad.h
+GLFW/glfw3.h
+-
+iostream
+-
+
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/glad.h
+khrplatform.h
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/khrplatform.h
+
+/home/angelcs/Documentos/IHC/ejercicio1/ejercicio2/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
